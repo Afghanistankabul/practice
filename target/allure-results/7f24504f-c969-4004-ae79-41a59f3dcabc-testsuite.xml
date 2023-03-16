@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1675226340678" stop="1675226340963" version="1.4.0">
+    <name>Default Suite</name>
+    <test-cases>
+        <test-case start="1675226340744" stop="1675226340761" status="passed">
+            <name>setup</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+        <test-case start="1675226340920" stop="1675226340921" status="passed">
+            <name>testEnded</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+        <test-case start="1675226340930" stop="1675226340931" status="passed">
+            <name>user</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="feature" value="SeleniumProject"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
