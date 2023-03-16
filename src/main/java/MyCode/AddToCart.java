@@ -44,6 +44,7 @@ public class AddToCart {
         System.out.println(driver.findElement(By.cssSelector("span.promoInfo")).getText());
 
     }
+    // this is just for test
 
 
 }
